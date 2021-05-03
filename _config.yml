@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+title: Djank
+description: Djank is an open-source bank project made using django
+show_downloads: true
+logo: https://github.com/IamEinstein/djank/blob/gh-pages/sources/bank-icon.jpg?raw=true
+google_analytics: UA-195133134-1

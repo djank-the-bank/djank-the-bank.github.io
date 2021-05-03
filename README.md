@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Djank, the bank
+![status](https://github.com/iameinstein/djank/actions/workflows/django.yml/badge.svg)
 
-You can use the [editor on GitHub](https://github.com/djank-the-bank/djank-the-bank.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Djank is a bank made using django.
+<div style="display:flex;">
+It's an open source project available on github and has been deployed to Heroku.
+  
+&nbsp;&nbsp; <img src="https://media.discordapp.net/attachments/822418040805130250/827223041808400414/IMG-20210401-WA0006.png" width=200 height=200>
+</div>
 
-### Markdown
+## What is djank all about ?
+Djank is just an open source project made by a group of students in order to learn python. It's aim is to integrate a website with a discord bot and a mobile app made using react-native.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How to use djank
+Well, it's simple, just head on to the [website](https://djank.herokuapp.com) and sign up.
+You'll have a default bank balance of $100 (Remember the money is fake!!!!!).
+Now u can perform transactions - add or withdraw money, see your transaction history once you've performed some transactions, and change your password 
 
-```markdown
-Syntax highlighted code block
+Spoiler :  Soon, you'll also be able to transfer money to other accounts.
+### Have an error ?
+Djank is maintained by us, as a hobby. Altough it's tried and tested multiple times, there's a change that you may come across a bug 🐛 or error.
 
-# Header 1
-## Header 2
-### Header 3
+So....
 
-- Bulleted
-- List
+Incase you come across a bug (we hope you don't, but still 😅) please report it in our [discord server](https://discord.gg/WuW9dSKM) in [this channel](https://discord.com/channels/834422048146456577/834422048146456583/834424240143859802)
+### Site status
+At times, the site is down due to developmental purposes. You can check the status of the site in our [discord server](https://discord.gg/WuW9dSKM) in [this channel](https://discord.com/channels/834422048146456577/834422306829893642/834424354900279346)
 
-1. Numbered
-2. List
+## Discord bot 
+As for the bot, it's in the process of being made, we're brining new features to it regularly. You can know more about the bot [here](https://fun-bot-discord.github.io/fun-bot-website/) and [invite it in your server](https://discord.com/oauth2/authorize?client_id=819212547449290794&scope=bot&permissions=2147483647). The prefix for the bot is `f!`
 
-**Bold** and _Italic_ and `Code` text
+**NOTE : CURRENTLY THE BOT'S SITE IS UNDER DEVELOPMENT**
 
-[Link](url) and ![Image](src)
-```
+## Mobile app
+The mobile app, as of now, is still under development. We've started working on it and will be rolling it out soon. Until then, feel free to use our website on your mobile
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/djank-the-bank/djank-the-bank.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Visit us!](https://djank.herokuapp.com)
